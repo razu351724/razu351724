@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm RAZU SHEIKH
 #### Web Developer
-![Web Developer](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)
+![Web Developer]
 
 I’m a Front End Web developer. HTML5 and CSS3 in making web pages cross-browser compatible.
 
